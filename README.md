@@ -17,7 +17,7 @@
 <br/>
 
 
-- 🔭 I’m currently working, learning to gow my skills on full stack developement.
+- 🔭 I’m currently working, learning to grow my skills on full stack developement.
 - 🌱 I’m currently learning more about java.
 - 👯 I'm open for colabaration on web developement.
 - 🤔 I’m looking for help with web developement projects.
